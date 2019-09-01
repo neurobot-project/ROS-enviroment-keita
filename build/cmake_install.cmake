@@ -140,6 +140,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/keita/catkin_ws/build/vision_opencv/cv_bridge/cmake_install.cmake")
   include("/home/keita/catkin_ws/build/vision_opencv/image_geometry/cmake_install.cmake")
   include("/home/keita/catkin_ws/build/realsense-ros/realsense2_camera/cmake_install.cmake")
+  include("/home/keita/catkin_ws/build/visual_odometry/cmake_install.cmake")
 
 endif()
 

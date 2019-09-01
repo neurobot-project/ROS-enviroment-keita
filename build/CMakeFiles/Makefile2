@@ -6166,6 +6166,24 @@ clean: realsense-ros/realsense2_camera/CMakeFiles/tf2_msgs_generate_messages_cpp
 .PHONY : clean
 
 #=============================================================================
+# Directory level rules for directory visual_odometry
+
+# Convenience name for "all" pass in the directory.
+visual_odometry/all:
+
+.PHONY : visual_odometry/all
+
+# Convenience name for "clean" pass in the directory.
+visual_odometry/clean:
+
+.PHONY : visual_odometry/clean
+
+# Convenience name for "preinstall" pass in the directory.
+visual_odometry/preinstall:
+
+.PHONY : visual_odometry/preinstall
+
+#=============================================================================
 # Special targets to cleanup operation of make.
 
 # Special rule to run CMake to check the build system integrity.
