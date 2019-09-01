@@ -1,2 +1,4 @@
 # ROS-enviroment-keita
 keitaのROS開発用レポジトリ
+
+それぞれのパッケージのセットアップ、利用方法はチームドライブのSetup/ROSフォルダ内のドキュメントに記載しています
