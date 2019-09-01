@@ -1,0 +1,8 @@
+prefix=/home/keita/catkin_ws/install
+
+Name: successor_feature
+Description: Description of successor_feature
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/keita/catkin_ws/install/lib 
+Requires: 

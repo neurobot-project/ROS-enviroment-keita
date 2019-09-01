@@ -1,0 +1,8 @@
+prefix=/home/keita/catkin_ws/devel
+
+Name: visual_odometory
+Description: Description of visual_odometory
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/keita/catkin_ws/devel/lib 
+Requires: 

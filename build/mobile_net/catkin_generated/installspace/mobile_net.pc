@@ -1,0 +1,8 @@
+prefix=/home/keita/catkin_ws/install
+
+Name: mobile_net
+Description: Description of mobile_net
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/keita/catkin_ws/install/lib 
+Requires: 
