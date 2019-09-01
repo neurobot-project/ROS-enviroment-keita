@@ -1,7 +1,6 @@
 import torch.nn as nn
 import torch.utils.model_zoo as model_zoo
 
-# copied from torchvision (https://github.com/pytorch/vision/blob/master/torchvision/models/alexnet.py).
 # The forward function is modified for model pruning.
 
 __all__ = ['AlexNet', 'alexnet']
